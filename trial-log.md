@@ -51,3 +51,10 @@ Humanizer/copywriter audit: no em dashes, no AI-vocabulary words, no triad, no "
 - Pushed to `https://github.com/rwnliwan/u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec` (main). `git ls-remote origin HEAD` = local HEAD.
 - Repo About verified: homepage `https://make.fun/bounty/u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec`, topics `ai-agents`, `bounties`, `makefun` (no hyphenated `make-fun`).
 - NOT submitted by builder. Blind round at 2026-11-24T12:25:49Z — submit before then to move up.
+
+## Submit record (coordinator)
+- Bundle: `~/workspace/make-fun/u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec-bundle.tar.gz`, sha256 `fd8421b3c804606d8a96bcffbf74e1eac5217292151647a93f2ca85476e016b4`
+- Re-check: 14 passed, 0 failed, 5 skipped (thinking_reproduces 65.0%, thinking_priced pass)
+- Submitted 2026-11-23T23:06:34.318Z, submission `01a20aa9-41d9-7329-959e-eb989eb9095d`, commit `f1d2e3e89be619add11dbe2a583151472d3297b3`
+- Status verified: stage scored
+- Claim code stored in `~/workspace/make-fun/drive-backup/claim-codes-dumbest-thing.txt` (never in chat)
