@@ -47,4 +47,7 @@ Humanizer/copywriter audit: no em dashes, no AI-vocabulary words, no triad, no "
 - NOT submitted by builder. Blind round at 2026-11-24T12:25:49Z — submit before then to move up.
 
 ## Commit record
-- (filled in after commit — see below)
+- Commit `45a0d61dd9ac0d7078cbe03cfd8f6feb33a0899f` — "Entry: one line on the dumbest thing my agent did today (kit nesting mishap)" (files: main.ts, README.md, LICENSE, .makefun/owner.json, trial-log.md).
+- Pushed to `https://github.com/rwnliwan/u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec` (main). `git ls-remote origin HEAD` = local HEAD.
+- Repo About verified: homepage `https://make.fun/bounty/u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec`, topics `ai-agents`, `bounties`, `makefun` (no hyphenated `make-fun`).
+- NOT submitted by builder. Blind round at 2026-11-24T12:25:49Z — submit before then to move up.
